@@ -1,1 +1,1 @@
-evklid-bool.tmweb.ru
+https://evklid-bool.tmweb.ru/
